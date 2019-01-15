@@ -1,5 +1,9 @@
 # PresentationTheme.Aero
 
+<a href="https://www.nuget.org/packages/PresentationTheme.Aero">
+   <img src="https://img.shields.io/nuget/v/PresentationTheme.Aero.svg?style=flat-square">
+</a>
+
 ## Overview
 
 [PresentationTheme.Aero](https://gix.github.io/PresentationTheme.Aero/) is a
